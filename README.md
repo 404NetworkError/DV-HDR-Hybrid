@@ -46,7 +46,7 @@ The `dv.py` script offers several additional options to customize its behavior. 
 
 - `-rpu hlg`: When you specify this option, it converts the RPU to L6 8.4 mode. This conversion makes the RPU compatible with HLG (Hybrid Log-Gamma) files, allowing you to work with videos in an HLG format.
 
-- `-m` or `--mode`: Sets the Dolby Vision extraction mode, which can be 2 or 3.
+- `-m` or `--mode`: Sets the Dolby Vision extraction mode, which can be 2 or 3. See the [`dovi_tool` documentation](https://github.com/quietvoid/dovi_tool?tab=readme-ov-file#hevc-parsing--handling) for more details about the different modes.
 
 Be sure to review the complete documentation of the `dv.py` script for detailed information on all available options.
 
