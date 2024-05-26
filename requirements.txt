@@ -1,0 +1,5 @@
+coloredlogs
+opencv-python
+
+# dv.py only
+pyfiglet

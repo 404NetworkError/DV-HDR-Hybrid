@@ -18,7 +18,9 @@ Before getting started, ensure you have the following prerequisites in place:
 
 1. **Python**: Make sure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 
-2. **Executable Files**: The `dv.py` script relies on several external executable files, including `dovi_tool.exe`, `ffmpeg.exe`, and `mkvmerge.exe`. Make sure these files are present in the same directory as `dv.py` before running the script.
+2. **Dependencies**: Run `pip install -r requirements.txt` to install the required Python dependencies.
+
+3. **Executable Files**: The `dv.py` script relies on several external executable files, including `dovi_tool.exe`, `ffmpeg.exe`, and `mkvmerge.exe`. Make sure these files are present in the same directory as `dv.py` before running the script.
 
 ### Basic Usage
 
@@ -70,7 +72,9 @@ Before you start using `hdr10plus.py`, make sure you have the following prerequi
 
 1. **Python**: Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 
-2. **Required Files**: You'll need the `hdr10plus.py` script and associated executable files, such as `ffmpeg.exe`, in the same directory.
+2. **Dependencies**: Run `pip install -r requirements.txt` to install the required Python dependencies.
+
+3. **Required Files**: You'll need the `hdr10plus.py` script and associated executable files, such as `ffmpeg.exe`, in the same directory.
 
 ### Basic Usage
 
